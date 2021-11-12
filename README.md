@@ -1,0 +1,4 @@
+- 👋 Hi, I’m St0rm
+- 👀 I’m interested in Roblox exploits / Serversides.
+- 🌱 I’m currently learning C++
+- 📫 Reach me on discord: St0rm#0074
